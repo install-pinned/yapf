@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install yapf from PyPI
-  uses: install-pinned/yapf@e97e6aa6fa3932c7f6962c96901e3e3236d6ebce  # 0.32.0
+  uses: install-pinned/yapf@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 ## Alternatives
@@ -23,5 +23,4 @@ This action is a relatively simple wrapper around the fantastic [pip-tools](http
 
 ## More Details
 
-See the [main repository](https://github.com/install-pinned/overview) for details.
-
+See the [@install-pinned README](https://github.com/install-pinned) for details.
