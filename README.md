@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install yapf from PyPI
-  uses: install-pinned/yapf@9ab50fb98fed0085edd3d4220eee92def9d57408  # 0.32.0
+  uses: install-pinned/yapf@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 ## Alternatives
