@@ -4,7 +4,7 @@
 
 ![](https://shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)
 
-Securely install the latest yapf release from PyPI.
+Securely install the latest [yapf](https://pypi.org/project/yapf/) release from PyPI.
 
 This action installs a pinned version of **yapf** and all its dependencies,         making sure that file hashes match. Pinning your dependencies stops supply chain attacks where an adversary         replaces yapf or one of its dependencies with malicious code.
 
