@@ -2,7 +2,7 @@
 
 # install-pinned/yapf
 
-![](https://shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)
+![](https://shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)
 
 Securely install the latest [yapf](https://pypi.org/project/yapf/) release from PyPI.
 
