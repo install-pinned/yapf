@@ -19,7 +19,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install yapf from PyPI
-        uses: install-pinned/yapf@c0ad5135221a4d1fe0714db56dd57d259a329fb1  # 0.32.0
+        uses: install-pinned/yapf@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
